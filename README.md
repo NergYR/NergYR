@@ -6,4 +6,4 @@
 ![code](https://endorium.xyz/Storage/téléchargés.png)
 
 ### ✉️ Contact :
-![twitch](https://endorium.xyz/Storage/twitch.png)
+![https://twitch.tv/energeti_q](https://endorium.xyz/Storage/twitch.png)
