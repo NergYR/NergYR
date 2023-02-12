@@ -3,7 +3,7 @@
 
 
 ### 🛠️ I use : 
-![code](https://endorium.xyz/Storage/téléchargés.png)
+![code](https://lesjoiesducode.fr/content/045/vs-code-logo.png)
 
 ### ✉️ Contact :
-![https://twitch.tv/energeti_q](https://endorium.xyz/Storage/twitch.png)
+![mail](mailto:energetiq@outlook.com)
